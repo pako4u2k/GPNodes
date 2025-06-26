@@ -1,0 +1,17 @@
+#  Edit the following fields to match your project
+
+[project]
+name = "GPNodes"
+description = "Some Custom GP Nodes
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["",]  # e.g.) ["numpy==1.18.1", ]
+
+[project.urls]
+Repository = "https://github.com/"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "pako4u2k"
+DisplayName = "GPNodes"
+Icon = ""
